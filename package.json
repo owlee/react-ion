@@ -1,0 +1,19 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "Simple react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owlee/react-ion.git"
+  },
+  "author": "Oscar Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/owlee/react-ion/issues"
+  },
+  "homepage": "https://github.com/owlee/react-ion#readme"
+}
