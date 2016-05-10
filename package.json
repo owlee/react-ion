@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/owlee/react-ion/issues"
   },
-  "homepage": "https://github.com/owlee/react-ion#readme"
+  "homepage": "https://github.com/owlee/react-ion#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
